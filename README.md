@@ -1,2 +1,2 @@
 # Bibee-cloud
-This is repository for student Bibee
+This is repository for student of SIT
